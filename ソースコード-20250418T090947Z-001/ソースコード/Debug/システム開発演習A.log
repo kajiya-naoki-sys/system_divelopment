@@ -1,7 +1,0 @@
-﻿  menu.c
-C:\Users\naoki\Desktop\授業\加治屋\２年\後期前半\システム開発演習A\ソースコード\menu.c(620,8): warning C4090: '=': 異なる 'const' 修飾子です。
-C:\Users\naoki\Desktop\授業\加治屋\２年\後期前半\システム開発演習A\ソースコード\menu.c(951,7): warning C4101: 'id': ローカル変数は 1 度も使われていません。
-C:\Users\naoki\Desktop\授業\加治屋\２年\後期前半\システム開発演習A\ソースコード\menu.c(999,15): warning C4013: 関数 'GetTelNumStr' は定義されていません。int 型の値を返す外部関数と見なします。
-C:\Users\naoki\Desktop\授業\加治屋\２年\後期前半\システム開発演習A\ソースコード\menu.c(1003,27): warning C4047: '==': 間接参照のレベルが 'int' と 'void *' で異なっています。
-C:\Users\naoki\Desktop\授業\加治屋\２年\後期前半\システム開発演習A\ソースコード\menu.c(1008,17): warning C4013: 関数 'Searchtel' は定義されていません。int 型の値を返す外部関数と見なします。
-  システム開発演習A.vcxproj -> C:\Users\naoki\Desktop\授業\加治屋\２年\後期前半\システム開発演習A\ソースコード\Debug\システム開発演習A.exe
